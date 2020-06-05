@@ -1,4 +1,4 @@
-django==1.11
+django==1.11.29
 django-bootstrap-form==3.4
 django-contrib-comments==1.8.0
 django-notifications-hq==1.3
